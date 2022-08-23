@@ -2,7 +2,7 @@
 
 Experiment to illustrate a sonic boom and experiment with JS.
 
-To change the speed of the object, change `v`:
+To change the speed of the object, change `v` in [sonicboom.js](./sonicboom.js):
 
 ```let v = v_wave*1.2;```
 
